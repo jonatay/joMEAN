@@ -1,0 +1,14 @@
+{
+  "less" : [
+    "assets/less/bootstrap.less",
+    "assets/less/smartadmin-production.less",
+    "assets/less/smartadmin-production-plugins.less",
+    "assets/less/smartadmin-skin/smartadmin-skins.less"
+  ],
+  "css" : [
+    "public/stylesheets/bootstrap.css",
+    "public/stylesheets/smartadmin-production.css",
+    "public/stylesheets/smartadmin-production-plugins.css",
+    "public/stylesheets/smartadmin-skins.css"
+  ]
+}
